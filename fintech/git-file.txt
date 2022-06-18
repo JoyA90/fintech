@@ -1,0 +1,2 @@
+Greater than ( > ) symbol
+The append symbol is another name for the greater than ( > ) symbol when referring to a command in a command line environment (e.g., MS-DOS or Linux ). In the example below, the append symbol is between the dir command and the output file that stores the output.
